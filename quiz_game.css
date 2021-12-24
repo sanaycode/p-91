@@ -1,0 +1,18 @@
+.bod{
+   background:url("waba.jpg");
+}
+.dive{
+   background-color: white;
+   width: 500px;
+   height: 125px;
+   border-radius: 5px;
+}
+#output{
+   background-color: white;
+   border-radius: 10px;
+   border-top: 10px solid aqua;
+   padding: 10px;
+   float: none;
+   text-align: left;
+   width: 300px;
+}
